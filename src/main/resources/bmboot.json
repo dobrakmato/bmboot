@@ -1,5 +1,5 @@
 {
   "_comment": "Generated file. Do not touch!",
-  "name": "${project.parent.name}",
-  "version": "${project.parent.version}"
+  "name": "${project.name}",
+  "version": "${project.version}"
 }
