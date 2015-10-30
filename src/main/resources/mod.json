@@ -1,0 +1,11 @@
+{
+  "name": "${plugin.name}",
+  "version": "${plugin.version}",
+  "author": "${plugin.author}",
+  "modules": [
+    "eu.matejkormuth.rpreload.commands.CommandsModule",
+    "eu.matejkormuth.rpreload.configuration.ConfigurationsModule",
+    "eu.matejkormuth.rpreload.filestorage.FileStorageModule",
+    "eu.matejkormuth.rpreload.resourcepack.ResourcePackModule"
+  ]
+}

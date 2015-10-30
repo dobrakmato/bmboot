@@ -1,0 +1,16 @@
+# Name of plugin.
+name: ${plugin.name}
+# Version of plugin
+version: ${plugin.version}
+# Description of plugin.
+description: ${plugin.description}
+# Plugin author.
+author: ${plugin.author}
+# Main class that extends JavaPlugin.
+main: ${project.mainClass}
+
+# Commands.
+commands:
+  bmboot:
+    aliases: [bm, mod, modules]
+    description: Displays information about plugin.
